@@ -14,11 +14,15 @@ An online shop I set up and customised using WordPress, WooCommerce, a ready-mad
 
 | Homepage | Shop Page |
 |----------|-----------|
-| ![Homepage](screenshots/homepage.png) | ![Shop](screenshots/shop.png) |
+| ![Homepage](Images/Starter.png) | ![Shop](Images/shop.png) |
 
 | Product Page | Cart / Checkout |
 |--------------|-----------------|
-| ![Product](screenshots/product.png) | ![Cart](screenshots/cart.png) |
+| ![Product](Images/Products.png) | ![Cart](Images/Cart.png) |
+
+| About Us | Footer |
+|--------------|-----------------|
+| ![Product](Images/About.png) | ![Cart](Images/Footer.png) |
 
 ## What I Did
 
