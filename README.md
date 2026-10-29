@@ -14,7 +14,7 @@ An online shop I set up and customised using WordPress, WooCommerce, a ready-mad
 
 | Homepage | Shop Page |
 |----------|-----------|
-| ![Homepage](Images/Starter.png) | ![Shop](Images/shop.png) |
+| ![Homepage](Images/Starter.png) | ![Shop](Images/Shop.png) |
 
 | Product Page | Cart / Checkout |
 |--------------|-----------------|
@@ -36,10 +36,10 @@ An online shop I set up and customised using WordPress, WooCommerce, a ready-mad
 
 - WordPress
 - WooCommerce
-- Theme: **[theme name]**
-- Plugins: **[plugin 1]**, **[plugin 2]**, **[plugin 3]**
+- Theme: **Clothes Boutique**
+- Plugins: **woocommerce**, **Elementor**, **WPForms Lite**
 - Apache, PHP and MariaDB on Fedora Linux
-- ngrok (for the public demo link)
+- ngrok -> for the public demo link
 
 ## Author
 
